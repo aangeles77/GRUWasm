@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GRUWasm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c6e625880e3808246da86bbdd5b5457bd3892b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("GRUWasm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GRUWasm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
